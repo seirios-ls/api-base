@@ -12,7 +12,6 @@
             "email": "237472989@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.2",
         "ext-json": "*",
