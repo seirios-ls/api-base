@@ -1,0 +1,24 @@
+{
+    "name": "seirios/transmit",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Transmit\\": "Transmit"
+        }
+    },
+    "authors": [
+        {
+            "name": "seirios",
+            "email": "237472989@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-libxml": "*",
+        "ext-simplexml": "*",
+        "guzzlehttp/guzzle": "6.*|7.*"
+    }
+}
